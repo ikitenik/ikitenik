@@ -6,6 +6,6 @@
     <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
   <a href="https://t.me/ikitenok">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Tg Badge"/>
+    <img src="https://img.shields.io/badge/Tg-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Tg Badge"/>
   </a>
 </div>
