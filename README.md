@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/poduvest">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" length="1000" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" width="400" height="400" alt="Vk Badge"/>
   </a>
   <a href="https://t.me/ikitenok">
     <img src="https://img.shields.io/badge/Tg-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Tg Badge"/>
