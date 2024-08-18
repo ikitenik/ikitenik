@@ -12,7 +12,8 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=ikitenik&style=flat-square&color=blue" alt=""/>
     <h1>
-      hey there
+      Hi!
+      I'm glad to see you in my github profile
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
