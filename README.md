@@ -3,10 +3,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/poduvest">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" width="100" height="10" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" width="100" height="20" alt="Vk Badge"/>
   </a>
   <a href="https://t.me/ikitenok">
-    <img src="https://img.shields.io/badge/Tg-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Tg Badge"/>
+    <img src="https://img.shields.io/badge/Tg-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100" height="20" alt="Tg Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
