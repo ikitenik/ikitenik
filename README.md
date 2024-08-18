@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=ikitenik&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=ikitenik&style=flat-square&color=blue" width="200 alt=""/>
     <h1>
       Hi!
       I'm glad to see you in my github profile
