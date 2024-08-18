@@ -9,3 +9,6 @@
     <img src="https://img.shields.io/badge/Tg-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Tg Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=ikitenik&style=flat-square&color=blue" alt=""/>
+</div>
